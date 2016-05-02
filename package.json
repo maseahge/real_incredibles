@@ -13,5 +13,17 @@
     "jade": "~1.11.0",
     "morgan": "~1.6.1",
     "serve-favicon": "~2.3.0"
-  }
+  },
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/la-mari/real_incredibles.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/la-mari/real_incredibles/issues"
+  },
+  "homepage": "https://github.com/la-mari/real_incredibles#readme",
+  "description": ""
 }
